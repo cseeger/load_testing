@@ -31,3 +31,5 @@ jmeter.log
 .DS_Store
 .ruby-gemset
 .ruby-version
+ruby_jmeter_scripts/multi_user_example.rb
+ruby_jmeter_scripts/tci.rb
